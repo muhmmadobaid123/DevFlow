@@ -1,0 +1,8 @@
+django
+djangorestframework
+mongoengine
+pymongo
+bcrypt
+djangorestframework-simplejwt
+django-cors-headers
+python-dotenv
